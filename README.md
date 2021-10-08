@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rehanali7996
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning javascript, jQuery etc 
+- 🌱 I’m currently learning Reactjs and basics of Node and Expressjs 
 - 📫 You can reach me at rehanali7996@gmail.com
 
 <!---
